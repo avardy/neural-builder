@@ -1,0 +1,1 @@
+Playing with the ideas from Neural Cellular Automata for robot collective construction
